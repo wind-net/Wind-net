@@ -8,21 +8,18 @@ I am a Computer scientist and System Engineer. I am passionate about technologie
 
 Here are a few things I've picked up along my learning journey.
 
-* 🗣 Python | Java | SQL 
-* 🖇️ Django
-* 🛢️ MySQL | SQLite 
+* 🗣 Python | Bash | SQL | Powershell
+* 🖇️ Linux | RHEL | Ubuntu | Debian 
+* 🛢️ MySQL | SQLite | InfluxDB
 * :octocat: Git | Github
 * 🌐 HTML | CSS
-* ☁ Firebase
-* 💠 Blender
+* ☁ Container | Docker
+* 💠 Virtual Machines
 * 📟 Raspberry PI 
 
 ## 📫 Get in touch
-- LinkedIn - [Adnan Azmee](https://in.linkedin.com/in/adnanazmee)
-- Twitter - [@AzmeeAdnan](https://twitter.com/AzmeeAdnan)
-- Reddit - [adnanazmee](https://reddit.com/user/adnanazmee)
 
- or give some ♥ on [mail](mailto:adnanazmee@gmail.com) .
+ or give some ♥ on [mail](mailto:57572072+Wind-net@users.noreply.github.com) .
 
 
 
