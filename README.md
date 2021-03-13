@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Yves 👨‍💻
+# <img src="./wave.gif" width="30px">Hi, I am Yves 👨‍💻
 
 I am a Computer scientist and System Engineer. I am passionate about technologies and love to learn new things.
 
